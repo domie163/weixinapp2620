@@ -1,0 +1,11 @@
+{
+  "navigationBarBackgroundColor": "#19191E",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "我的发布",
+  "component": true,
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons",
+    "uni-notice-bar": "/components/uni-ui/lib/uni-notice-bar/uni-notice-bar"
+  }
+}

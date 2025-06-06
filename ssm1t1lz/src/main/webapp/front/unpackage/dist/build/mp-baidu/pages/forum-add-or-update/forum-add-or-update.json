@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#19191E",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "我的发布",
+  "component": true,
+  "usingComponents": {}
+}

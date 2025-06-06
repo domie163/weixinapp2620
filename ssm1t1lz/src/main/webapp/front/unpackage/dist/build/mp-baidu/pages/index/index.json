@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#19191E",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "首页",
+  "component": true,
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}
